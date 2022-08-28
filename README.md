@@ -15,7 +15,7 @@ This is a space for my first steps in the world of codes:
 <div align="center">
   <a href="https://github.com/lorrancruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorrancruz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrancruz&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrancruz&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 <div style="display: inline_block"><br>
